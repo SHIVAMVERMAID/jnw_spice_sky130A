@@ -39,6 +39,7 @@ set color0=white
 set color1=black
 unset askquit
 
+
 optran 0 0 0 1n 100n 0
 tran 100p 1.1u 1.09u
 write
